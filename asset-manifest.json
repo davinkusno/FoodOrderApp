@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/food-order-app/static/css/main.109d3b69.chunk.css",
-    "main.js": "/food-order-app/static/js/main.5e7b653b.chunk.js",
-    "main.js.map": "/food-order-app/static/js/main.5e7b653b.chunk.js.map",
-    "runtime-main.js": "/food-order-app/static/js/runtime-main.0c930f85.js",
-    "runtime-main.js.map": "/food-order-app/static/js/runtime-main.0c930f85.js.map",
-    "static/js/2.8298c562.chunk.js": "/food-order-app/static/js/2.8298c562.chunk.js",
-    "static/js/2.8298c562.chunk.js.map": "/food-order-app/static/js/2.8298c562.chunk.js.map",
-    "index.html": "/food-order-app/index.html",
-    "static/css/main.109d3b69.chunk.css.map": "/food-order-app/static/css/main.109d3b69.chunk.css.map",
-    "static/js/2.8298c562.chunk.js.LICENSE.txt": "/food-order-app/static/js/2.8298c562.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpeg": "/food-order-app/static/media/meals.2971f633.jpeg"
+    "main.css": "/FoodOrderApp/static/css/main.109d3b69.chunk.css",
+    "main.js": "/FoodOrderApp/static/js/main.5e7b653b.chunk.js",
+    "main.js.map": "/FoodOrderApp/static/js/main.5e7b653b.chunk.js.map",
+    "runtime-main.js": "/FoodOrderApp/static/js/runtime-main.c5f4e34c.js",
+    "runtime-main.js.map": "/FoodOrderApp/static/js/runtime-main.c5f4e34c.js.map",
+    "static/js/2.8298c562.chunk.js": "/FoodOrderApp/static/js/2.8298c562.chunk.js",
+    "static/js/2.8298c562.chunk.js.map": "/FoodOrderApp/static/js/2.8298c562.chunk.js.map",
+    "index.html": "/FoodOrderApp/index.html",
+    "static/css/main.109d3b69.chunk.css.map": "/FoodOrderApp/static/css/main.109d3b69.chunk.css.map",
+    "static/js/2.8298c562.chunk.js.LICENSE.txt": "/FoodOrderApp/static/js/2.8298c562.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpeg": "/FoodOrderApp/static/media/meals.2971f633.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c930f85.js",
+    "static/js/runtime-main.c5f4e34c.js",
     "static/js/2.8298c562.chunk.js",
     "static/css/main.109d3b69.chunk.css",
     "static/js/main.5e7b653b.chunk.js"
